@@ -1,0 +1,22 @@
+body {
+  background-color: beige;
+}
+
+p {
+  text-align: center;
+}
+#title {
+  color: black;
+  font-size: 60px;
+}
+
+#billname {
+  color: rebeccapurple;
+  font-size: 50px;
+}
+#about {
+  font-size: 40px;
+}
+#aboutme {
+  font-size: 33px;
+}
